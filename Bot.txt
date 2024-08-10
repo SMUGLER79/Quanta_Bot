@@ -1,0 +1,4 @@
+GEMINI_AUTH_KEY=AIzaSyBxpGRbik-WzxPg5tuTwaNevNOy35B6vDo
+DISCORD_BOT_TOKEN=MTI2OTYzMzc5OTY2MzEyODcwOA.G9VCdv._pnV5uws4ldE-7CIk8nQBomE-TT7Oimqo3KbxE
+DISCORD_CLIENT_ID=1269633799663128708
+Bot_Mail=quanta-bot@gen-lang-client-0081366280.iam.gserviceaccount.com
